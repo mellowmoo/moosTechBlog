@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS mooTechBlog_db;
+CREATE DATABASE mooTechBlog_db;

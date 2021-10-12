@@ -19,4 +19,4 @@ if (process.env.JAWSDB_URL) {
     );
 }
 
-module.exporst = sequelize;
+module.exports = sequelize;
