@@ -65,7 +65,7 @@ Below are a few screenshots of the functionality of the app.
 
 
 ### About Me
-This app was created by Muhaimen Ahmed. You can find me at github.com/mellowmoo .
+This app was created by Muhaimen Ahmed. You can find me at github.com/mellowmoo .  Thank you for checking it out.
 
 ### Future Development
 I would like to add the following features.
