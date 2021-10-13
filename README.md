@@ -33,8 +33,11 @@ npm start
 
 Below is a link to the deployed application (deployed via heroku).
 
+https://immense-gorge-67691.herokuapp.com
 
 Below is a link to a youtube video of the application in action.
+
+https://www.youtube.com/watch?v=nuvs0KghqpY
 
 
 Below are a few screenshots of the functionality of the app.
